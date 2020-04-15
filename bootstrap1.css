@@ -1,0 +1,59 @@
+/*як загрузити ваші шрифти?*/
+.bg-header{
+	background-color:#eae8e9;
+}
+.bg-header ul {
+	margin-bottom:0;
+	padding:0;
+	list-style-type:none;
+}
+.bg-header .row{
+	padding:25px 10px;
+}
+
+.bg-main{
+	height:674px;
+	background:#f8f8f8 url("images/Brightness_Contrast 281.png") no-repeat;
+	background-position:center;
+}
+.bg-main img{margin:400px 200px 150px 790px;
+}
+
+
+.product{
+	padding:40px;
+	height:260px;
+	background-color:#eae8e9;
+	
+}
+
+.new_product h3{
+	text-transform:uppercase;
+	color:#7a6666;
+	margin-left:60px;
+}
+.new_product h1{
+	text-transform:uppercase;
+	color:#e32a62;
+	margin-left:60px;
+}
+.new_product p{
+	color:#7a6666;
+	padding-top:15px;
+	margin-left:60px;
+}
+.product img{
+margin:75px 30px 0 -80px;
+}
+
+.a{
+	height:160px;
+	background-color:#c8c10d
+}
+.bg-footer{
+	height:200px;
+	background-color:#cb3362;
+}
+.container img{
+	margin-left:100px;
+}
